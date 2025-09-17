@@ -19,7 +19,7 @@ A modern, fully-featured video player built with React and TypeScript. Upload an
 
 ## 🚀 Demo
 
-![Video Player Demo](https://via.placeholder.com/800x450/1F2937/FFFFFF?text=Video+Player+Demo)
+![Video Player Demo](https://github.com/kingjames511/VIDEO_PLAYER)
 
 *Upload a video file and start playing with the custom controls*
 
@@ -218,7 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [@kingjames511](https://github.com/kingjames511)
+KingJames - [omekejames1@gmail.com](https://github.com/kingjames511)
 
 Project Link: https://github.com/kingjames511/VIDEO_PLAYER
 
